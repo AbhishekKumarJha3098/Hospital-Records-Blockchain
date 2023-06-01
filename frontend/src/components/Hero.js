@@ -50,7 +50,7 @@ const Hero = () => {
 		<div>
 			<section className='hero'>
 				<div className='hero-content'>
-					<h1 className='hero-title'>Health Records</h1>
+					<h1 className='hero-title'>Medical Records</h1>
 
 					<h2 className='hero-subtitle'>
 						All your health records in one place. Safe and Secure!
