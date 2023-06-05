@@ -80,3 +80,4 @@ contract superadmin{
         return hospitals[add].name;
     }
 }
+

@@ -304,7 +304,7 @@ const abi = [
 const instance = new web3.eth.Contract(
 	//JSON.parse(SuperAdmin),
 	abi,
-	'0xF92149e40E29c49391390A25eB5f6E77928ffc06'
+	'0xffe01A42A22555293FDe8cd6a1b8FD7152eF7f7C'
 );
 
 export default instance;

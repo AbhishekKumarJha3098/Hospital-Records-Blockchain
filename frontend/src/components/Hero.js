@@ -39,7 +39,7 @@ const Hero = () => {
 				console.log("nhi ho rha");
 			} else {
 				//redirect to register page
-				console.log("Go register idiot");
+				console.log("Go register");
 				alert("Your are not registered. Please register first");
 				console.log("yha pe");
 			}
